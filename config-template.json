@@ -3,7 +3,7 @@
   "model": "gpt-3.5-turbo",
   "linkai_api_key": "YOUR API KEY",
   "linkai_app_code": "",
-  "proxy": "",
+  "proxy": "http://127.0.0.1:7890",
   "single_chat_prefix": [
     "bot",
     "@bot"
